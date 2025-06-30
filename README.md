@@ -3,11 +3,6 @@
 
 A beautifully designed **Tic-Tac-Toe** web game where two players can challenge each other on the same screen. This interactive game features smooth animations, a stunning UI, and a dynamic red line that highlights the winning move!
 
-## 🎮 Live Demo
-
-> 🚀 [Play Now](https://your-live-link.com)  
-> *(Replace with your live deployment link if hosted)*
-
 ---
 
 ## 📌 Features
